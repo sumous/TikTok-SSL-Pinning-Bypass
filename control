@@ -1,0 +1,9 @@
+Package: com.jk.tk
+Name: tk
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: liwhs
+Author: liwhs
+Section: Tweaks
