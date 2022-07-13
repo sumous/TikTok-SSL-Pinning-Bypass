@@ -1,5 +1,5 @@
-%hook TTHttpTask
-- (int)skipSSLCertificateError{
-    return 1;
+%hook TTNetworkManager
+- (int)ServerCertificate{
+    return 0;
 }
 %end
